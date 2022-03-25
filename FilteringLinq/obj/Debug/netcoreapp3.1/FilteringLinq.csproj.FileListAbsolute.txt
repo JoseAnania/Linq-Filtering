@@ -1,0 +1,14 @@
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.exe
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.deps.json
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.runtimeconfig.json
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.runtimeconfig.dev.json
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.dll
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\bin\Debug\netcoreapp3.1\FilteringLinq.pdb
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.csproj.AssemblyReference.cache
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.AssemblyInfoInputs.cache
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.AssemblyInfo.cs
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.dll
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.pdb
+D:\Dev\C#\Consola\Linq\FilteringLinq\FilteringLinq\obj\Debug\netcoreapp3.1\FilteringLinq.genruntimeconfig.cache
